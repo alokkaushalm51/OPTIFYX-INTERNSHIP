@@ -3,6 +3,14 @@
 ## Project Overview
 This project focuses on predicting sales based on advertising budgets allocated to TV, Radio, and Newspaper using a linear regression model. The goal is to understand the impact of different advertising channels on sales and build a predictive model to estimate future sales.
 
+## Requirements
+- Python 3.x
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- scikit-learn
+  
 ## Dataset
 The dataset used in this project is `Advertising.csv`, which contains the following columns:
 - **TV**: Advertising budget spent on TV (in thousands)
